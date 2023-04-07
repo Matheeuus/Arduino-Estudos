@@ -1,2 +1,2 @@
 # Arduino-Estudos
-Pasta destinada a novos estudos de sistemas embarcados C++. :)
+Pasta destinada a estudos e conhecimentos de sistemas embarcados C++. :)
